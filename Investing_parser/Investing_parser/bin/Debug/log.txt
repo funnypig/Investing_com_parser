@@ -1,0 +1,1940 @@
+
+4:15:59
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:15:59
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:16:00
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:16:00
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:16:01
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 89
+Индекс находился вне границ массива.
+
+4:16:01
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:18:23
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:18:23
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:18:24
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:18:26
+   в System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   в System.Collections.Generic.List`1.get_Item(Int32 index)
+   в System.Collections.ObjectModel.ReadOnlyCollection`1.get_Item(Int32 index)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 121
+Индекс за пределами диапазона. Индекс должен быть положительным числом, а его размер не должен превышать размер коллекции.
+Имя параметра: index
+
+4:18:26
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:18:26
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:18:27
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:18:28
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 133
+Входная строка имела неверный формат.
+
+4:18:28
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:18:28
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:18:28
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:18:29
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:18:29
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:18:29
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:18:29
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:18:30
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:18:30
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:18:30
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:18:30
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:18:31
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:18:31
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:18:31
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:18:31
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:18:32
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:18:32
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:18:32
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:18:32
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:18:33
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:18:33
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:18:33
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:18:33
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:18:34
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:18:34
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:18:34
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:18:34
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:18:35
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:18:35
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:18:35
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:18:35
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:18:36
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:18:36
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:18:36
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:18:36
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:18:37
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:18:37
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:18:37
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:18:37
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:18:38
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:18:38
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:18:38
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:18:38
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:18:39
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:18:39
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:18:39
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:18:39
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:18:40
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:18:40
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:18:40
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:18:40
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:18:41
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:18:41
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:18:41
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:18:41
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:18:42
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:18:42
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:18:42
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:18:42
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:18:43
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:18:43
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:18:43
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:18:43
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:18:44
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:18:44
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:18:44
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:18:44
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:18:44
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:18:45
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:18:45
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:18:45
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:18:45
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:18:46
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:18:46
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:18:46
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:18:46
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:18:47
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 89
+Индекс находился вне границ массива.
+
+4:18:47
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:18:50
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:18:50
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:18:51
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:18:52
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 133
+Входная строка имела неверный формат.
+
+4:18:52
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:18:52
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:18:52
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:18:53
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:18:53
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:18:53
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:18:53
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:18:54
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:18:54
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:18:54
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:18:54
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:18:54
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:18:55
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:18:55
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:18:55
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:18:55
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:18:56
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 89
+Индекс находился вне границ массива.
+
+4:18:56
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:18:59
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:18:59
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:19:00
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:19:00
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:19:00
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:19:01
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:19:01
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:19:01
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:19:01
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:19:02
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:19:02
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:19:02
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:19:02
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:19:02
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:19:03
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:19:03
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:19:03
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:19:04
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:19:04
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:19:04
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:19:04
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:19:04
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:19:05
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:19:05
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:19:05
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:19:05
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:19:06
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:19:06
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:19:06
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:19:06
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:20:28
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:20:28
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:20:29
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:20:30
+   в System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   в System.Collections.Generic.List`1.get_Item(Int32 index)
+   в System.Collections.ObjectModel.ReadOnlyCollection`1.get_Item(Int32 index)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 121
+Индекс за пределами диапазона. Индекс должен быть положительным числом, а его размер не должен превышать размер коллекции.
+Имя параметра: index
+
+4:23:41
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:23:42
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 89
+Индекс находился вне границ массива.
+
+4:23:43
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:46:36
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:47:51
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:47:51
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:47:51
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:47:52
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:47:52
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:47:52
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:47:52
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:47:53
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:47:53
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:47:53
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:47:53
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:47:54
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:47:54
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:47:54
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:47:54
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:47:55
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:47:55
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:47:55
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:47:55
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:47:56
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:47:56
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:47:56
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:47:56
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:47:57
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:47:57
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:47:57
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:47:57
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:47:57
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:47:58
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 89
+Индекс находился вне границ массива.
+
+4:47:58
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:48:01
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:48:01
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:48:02
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:48:02
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 103
+Входная строка имела неверный формат.
+
+4:48:02
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 89
+Индекс находился вне границ массива.
+
+4:48:03
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:48:09
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:48:09
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:48:09
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:48:10
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:48:10
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:48:10
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:48:10
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:48:11
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:48:11
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:48:11
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:48:11
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:48:12
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:48:12
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:48:12
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:48:12
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:48:12
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:48:13
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:48:13
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:48:49
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:48:49
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:48:50
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:48:51
+   в System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   в System.Collections.Generic.List`1.get_Item(Int32 index)
+   в System.Collections.ObjectModel.ReadOnlyCollection`1.get_Item(Int32 index)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 121
+Индекс за пределами диапазона. Индекс должен быть положительным числом, а его размер не должен превышать размер коллекции.
+Имя параметра: index
+
+4:48:52
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:48:52
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:48:52
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:48:52
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:48:53
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 89
+Индекс находился вне границ массива.
+
+4:48:53
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:48:56
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:48:56
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:48:57
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:48:57
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:48:57
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:48:57
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:49:01
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:49:01
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:49:01
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:49:02
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:49:02
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:49:02
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:49:02
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:49:02
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:49:03
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:49:03
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:49:03
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:49:03
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:49:07
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:49:07
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:49:07
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:49:07
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:49:08
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:49:08
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:49:08
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:49:08
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:49:09
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:49:09
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:49:09
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:49:10
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:49:10
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:49:10
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:49:10
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:49:11
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:49:11
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:49:11
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:49:11
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:49:12
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:49:12
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:49:12
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:49:12
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:49:12
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:49:13
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:49:13
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:49:13
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:49:13
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:49:14
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 89
+Индекс находился вне границ массива.
+
+4:49:14
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:49:17
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:49:17
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:49:18
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:49:19
+   в System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   в System.Collections.Generic.List`1.get_Item(Int32 index)
+   в System.Collections.ObjectModel.ReadOnlyCollection`1.get_Item(Int32 index)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 122
+Индекс за пределами диапазона. Индекс должен быть положительным числом, а его размер не должен превышать размер коллекции.
+Имя параметра: index
+
+4:49:19
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:49:20
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:49:20
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:49:20
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:49:20
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:49:21
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:49:21
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:49:21
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:49:22
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 88
+Входная строка имела неверный формат.
+
+4:49:23
+   в System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   в System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   в System.Int32.Parse(String s)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 133
+Входная строка имела неверный формат.
+
+4:50:00
+   в OpenQA.Selenium.Remote.HttpCommandExecutor.MakeHttpRequest(HttpRequestInfo requestInfo)
+   в OpenQA.Selenium.Remote.HttpCommandExecutor.Execute(Command commandToExecute)
+   в OpenQA.Selenium.Remote.DriverServiceCommandExecutor.Execute(Command commandToExecute)
+   в OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteWebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   в OpenQA.Selenium.Remote.RemoteWebElement.FindElements(String mechanism, String value)
+   в OpenQA.Selenium.Remote.RemoteWebElement.FindElementsByTagName(String tagName)
+   в OpenQA.Selenium.By.<>c__DisplayClass22_0.<TagName>b__1(ISearchContext context)
+   в OpenQA.Selenium.By.FindElements(ISearchContext context)
+   в OpenQA.Selenium.Remote.RemoteWebElement.FindElements(By by)
+   в Investing_parser.Invest.setCalendar(Int32 year, Int32 month, Int32 startday, Int32 finday) в E:\0_FH\Investing_parser\Investing_parser\Invest.cs:строка 129
+A exception with a null response was thrown sending an HTTP request to the remote WebDriver server for URL http://localhost:50899/session/6cbc461ada1a49d777597dc3c2e64fa4/element/99f408ab-0693-4b46-9487-98b1a44b583d/elements. The status of the exception was KeepAliveFailure, and the message was: Базовое соединение закрыто: Соединение, которое должно было работать, было разорвано сервером.

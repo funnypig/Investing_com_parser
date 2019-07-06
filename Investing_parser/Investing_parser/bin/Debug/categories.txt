@@ -1,0 +1,8 @@
+﻿Занятость:_employment
+Эконом. активность:_economicActivity
+Инфляция:_inflation
+Кредит:_credit
+ЦБ:_centralBanks
+Индекс уверенности:_confidenceIndex
+Баланс:_balance
+Облиг.:_Bonds

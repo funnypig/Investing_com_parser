@@ -1,0 +1,15 @@
+E:\0_FH\Investing_parser\Investing_parser\bin\Debug\Investing_parser.exe.config
+E:\0_FH\Investing_parser\Investing_parser\obj\Debug\Investing_parser.csprojResolveAssemblyReference.cache
+E:\0_FH\Investing_parser\Investing_parser\obj\Debug\Investing_parser.Form1.resources
+E:\0_FH\Investing_parser\Investing_parser\obj\Debug\Investing_parser.Properties.Resources.resources
+E:\0_FH\Investing_parser\Investing_parser\obj\Debug\Investing_parser.csproj.GenerateResource.Cache
+E:\0_FH\Investing_parser\Investing_parser\bin\Debug\Investing_parser.exe
+E:\0_FH\Investing_parser\Investing_parser\bin\Debug\Investing_parser.pdb
+E:\0_FH\Investing_parser\Investing_parser\bin\Debug\HtmlAgilityPack.dll
+E:\0_FH\Investing_parser\Investing_parser\bin\Debug\WebDriver.dll
+E:\0_FH\Investing_parser\Investing_parser\bin\Debug\HtmlAgilityPack.pdb
+E:\0_FH\Investing_parser\Investing_parser\bin\Debug\HtmlAgilityPack.xml
+E:\0_FH\Investing_parser\Investing_parser\obj\Debug\Investing_parser.exe
+E:\0_FH\Investing_parser\Investing_parser\obj\Debug\Investing_parser.pdb
+E:\0_FH\Investing_parser\Investing_parser\bin\Debug\WebDriver.xml
+E:\0_FH\Investing_parser\Investing_parser\obj\Debug\Investing_parser.csproj.ResolveComReference.cache
